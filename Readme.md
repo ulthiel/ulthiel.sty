@@ -1,9 +1,9 @@
 # Readme
 
-This is a Latex package loading some basic Latex packages and setting basic options I am using for writing my stuff. Simply put the file either into the folder of your Latex document or, to avoid copying this file all the time, into your [texmf directory](https://www.ugr.es/~ftorralbo/blog/programming/local-texmf/). I am using a separate local texmf directory set using `export TEXMFHOME=` in `.profile` and put the file into `texmf/tex/latex/ulthiel`. Then you can simply load this package like any other package:
+This is a Latex package loading some basic Latex packages and setting basic options I am using for writing my stuff. Simply put the file ulthiel.sty from the repository either into the folder of your Latex document or, to avoid copying this file all the time, into your [texmf directory](https://www.ugr.es/~ftorralbo/blog/programming/local-texmf/). I am using a separate local texmf directory set using `export TEXMFHOME=` in `.profile` and put the file into `texmf/tex/latex/ulthiel`. Then you can simply load this package like any other package:
 
 ```latex
-\documentclass{article}
+\documentclass{article} % or amsart 
 
 \usepackage[OPTIONS]{ulthiel}
 
