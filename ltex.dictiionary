@@ -1,0 +1,47 @@
+"ltex.dictionary": {
+
+
+        "en-US": [
+            "abelian", "associator", "associators", "automorphism", "automorphisms", 
+            
+            "Beauville", "Bellamy", "bimodule", "bimodules", "Birkhoff", "Bonnafé", "Borel", "braidings", "Broué", 
+            
+            "categorification", "categorifications", "categorified", "categorify", "categorifies", "Calogero", "Cherednik", "closedness", "codimension", "coevaluation", "componentwise", "conjecturally", "conjugacy", "constructible", "contravariantly", "coprime", "Coxeter", "crepant", "cuspidal", 
+            
+            "de-equivariantization", "desingularization", "desingularized", "desingularizations", "desingularize", "Duflo", "Dynkin",
+            
+            "endomorphism", "endomorphisms", "equivariantization", "Etingof", 
+
+            "factorizations", "filtrations", "finitary", "Frobenius", "functorial",
+            
+            "Gaudin", "Geck", "Gorenstein", "Ginzburg", 
+            
+            "half-braiding", "half-braidings", "Hartog", "Hecke", "Hironaka", "holomorphic", "homological", "homotopy", "hyperplane", "hyperplanes", 
+            
+            "indecomposable", "indeterminates", "isomorphism", "isomorphisms", "Iwahori",
+            
+            "Kaiserslautern", "Kazhdan", "Kirillov", "Kleinian", "Kostant", "Krull",
+            
+            "Lieb", "Lusztig", 
+            
+            "Malle", "Martino", "Maschke", "Mazorchuk", "Mäurer", "Miemietz", "moduli", "monic", "monoid", "monoidal", "Moser", "multifusion", 
+            
+            "Nakayama", "Namikawa", "nilpotent", "nilradical", "noncommutative", "nondegenerate", 
+            
+            "pointwise", "Poisson", "projectivity", 
+
+            "quaternion", "quaternions", "quaternionic",
+            
+            "Rogel", "Rouquier", 
+            
+            "Schur", "semidirect", "semisimple", "Shephard", "Soergel", "spetses", "spetsial", "subalgebra", "subalgebras", "subobjects", "subquotient", "subring", "subscheme", "subschemes", "subvarieties", "subvariety", "surjective", 
+            
+            "Temperley",  "terminalization", "terminalizations", "Tubbenhauer", 
+            
+            "unipotent", 
+            
+            "Wenzl", "Weyl", "Witten",
+        
+            "Zariski"]
+        
+    },
